@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_includes\\head",
+    "\\_teaching"
   ],
-  "SelectedNode": "\\Gemfile.lock",
+  "SelectedNode": "\\_pages",
   "PreviewInSolutionExplorer": false
 }

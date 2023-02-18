@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: ""
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
@@ -10,6 +11,6 @@ redirect_from:
 
 Welcome! I am a 5th year Ph.D. candidate at the Kenneth C. Griffin Department of Economics at The University of Chicago.
 
-## Fields of Interests
-* Finance
-* Franco Tanco
+## Research interests
+* Industrial Organization
+* Financial Economics

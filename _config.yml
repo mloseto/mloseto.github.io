@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  hide                   : true
 
 # SEO Related
 google_site_verification :
@@ -87,7 +88,7 @@ author:
   employer         :
   pubmed           : #""
   googlescholar    : #""
-  email            :
+  email            : "mloseto@uchicago.edu"
   researchgate     :  # example: ""
   uri              :
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mloseto"
+  github           : #"mloseto"
   google_plus      :
   keybase          :
   instagram        :
