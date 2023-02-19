@@ -16,7 +16,7 @@ title: ""
 
 ## Publications
 
-<a href="../files/hlo_final.pdf" style="color: black; text-decoration: underline">
+<a href="../files/hlo_final.PDF" style="color: black; text-decoration: underline">
 	Regulation with Experimentation: Ex Ante Approval, Ex Post Withdrawal and Liability</a> (with [Emeric Henry](https://sites.google.com/site/emericmlhenry/home) 
 	and [Marco Ottaviani](https://faculty.unibocconi.eu/marcom.ottaviani/)), 2022,
 	*Management Science*, 68(7), 5330-5347.
