@@ -13,7 +13,7 @@ sitemap: false
 
 ### Industrial Organization, (ECON 280), UChicago - Spring 2021
 *  Instructor: [Michael Dinerstein](https://sites.google.com/site/michaeldinerstein/), Level: undergraduate
-*  Topics: monopoly, oligopolies, product differentiation, entry & exit, vertical relationships, antitrust
+*  Topics: monopoly, oligopolies, product differentiation, entry & exit, price discrimination, vertical relationships, antitrust
 
 ### Advanced Industrial Organization IV, (ECON 401), UChicago - Fall 2020
 *  Instructor: [Pietro Tebaldi](https://www.pietrotebaldi.com/), Level: graduate
