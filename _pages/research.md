@@ -8,10 +8,10 @@ title: ""
 ## Working Papers
 
 <a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
-	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/)), Feb. 2023.
+	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/)), 2023.
 
 <a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
-	Deliberate Randomization under Risk</a> (with Aldo Lucia), Sept. 2022.
+	Deliberate Randomization under Risk</a> (with Aldo Lucia), 2022.
 
 
 ## Publications
