@@ -7,7 +7,7 @@ sitemap: false
 
 <!-- Coming soon. -->
 
-Full cv: [pdf] <!-- [pdf](../files/marco_loseto_cv.pdf)-->
+Full cv: [coming soon]. <!-- [pdf](../files/marco_loseto_cv.pdf)-->
 
 
 ## Education
