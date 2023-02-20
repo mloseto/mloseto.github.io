@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a 5th year PhD student at the University of Chicago, Kenneth C. Griffin Department of Economics.
 
-My academic cv can be downloaded [coming soon]. <!-- [here](../files/marco_loseto_cv.pdf).-->
+Academic cv: [coming soon]. <!-- [here](../files/marco_loseto_cv.pdf).-->
 
 Reach me at mloseto[aT]uchicago[DoT]edu
 
