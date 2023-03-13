@@ -7,6 +7,9 @@ title: ""
 
 ## Working Papers
 
+<a href="../files/network_oligopolies_draft_Mar2023.pdf" style="color: black; text-decoration: underline">
+	Network Games of Imperfect Competition: An Empirical Framework</a>, 2023.
+
 <a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
 	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/)), 2023.
 
