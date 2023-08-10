@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 5th year PhD student at the University of Chicago, Kenneth C. Griffin Department of Economics.
+Welcome! I am a PhD candidate at the University of Chicago, Department of Economics.
 
 <!-- Academic cv: [coming soon]. <!-- [here](../files/marco_loseto_cv.pdf).-->
 
