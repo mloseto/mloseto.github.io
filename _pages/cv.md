@@ -5,9 +5,8 @@ title: ""
 sitemap: false
 ---
 
-<!-- Coming soon. -->
 
-Full cv: [coming soon]. <!-- [pdf](../files/marco_loseto_cv.pdf)-->
+Full cv: [pdf](../files/lm_cv.pdf).
 
 
 ## Education

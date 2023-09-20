@@ -15,6 +15,6 @@ its implications for investors' welfare.
 
 I will be on the 2023-2024 job market.
 
-<!-- Academic cv: [coming soon]. <!-- [here](../files/marco_loseto_cv.pdf).-->
+My CV is available [here](../files/lm_cv.pdf).
 
-Reach me at mloseto[at]uchicago[dot]edu
+Reach me at mloseto[at]uchicago[dot]edu.
