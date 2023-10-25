@@ -17,4 +17,4 @@ I will be on the 2023-2024 job market.
 
 My CV is available [here](../files/lm_cv.pdf).
 
-Reach me at mloseto[at]uchicago[dot]edu.
+You can reach me at mloseto[at]uchicago[dot]edu.
