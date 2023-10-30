@@ -29,7 +29,7 @@ You can reach me at mloseto[at]uchicago[dot]edu.
 ## Job Market Paper
 
 <a style="color: black; text-decoration: underline">
-	Plan Menus, Retirement Portfolios and Investors' Welfare</a> (draft coming soon)
+	Plan Menus, Retirement Portfolios, and Investors' Welfare</a> (draft coming soon)
 
 <div style="text-align: justify; font-size:15px;">
 
