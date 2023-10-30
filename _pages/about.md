@@ -43,7 +43,7 @@ In response, funds charge sizable margins to investors. This is especially evide
 whose estimated margins are nearly twice as large as the median of all funds.
 Because model estimates suggest that a sizable share of investors is inactive,
 counterfactual policies mandating the inclusion of low-cost default options
-prove more effective than simply requiring the inclusion of low-cost options like an S\&P 500 tracker.
+prove more effective than simply requiring the inclusion of low-cost options like an S&P 500 tracker.
 
 </div>
 
