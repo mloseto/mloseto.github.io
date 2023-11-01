@@ -28,8 +28,8 @@ You can reach me at mloseto[at]uchicago[dot]edu.
 
 ## Job Market Paper
 
-<a style="color: black; text-decoration: underline">
-	Plan Menus, Retirement Portfolios, and Investors' Welfare</a> (draft coming soon)
+<a href="../files/lm_jmp_draft.pdf" style="color: black; text-decoration: underline">
+	Plan Menus, Retirement Portfolios, and Investors' Welfare</a>, 2023. 
 
 <div style="text-align: justify; font-size:15px;">
 
@@ -44,7 +44,7 @@ of funds affiliated with the plan recordkeeper. In response, funds charge sizabl
 This is especially evident for Target-Date funds (TDFs), whose estimated margins are nearly twice as large as
 the median of all funds. Because model estimates suggest that a sizable share of investors is inactive,
 counterfactual policies mandating the inclusion of low-cost default options prove more effective than simply
-requiring the inclusion of low-cost options like an S\&P 500 tracker.
+requiring the inclusion of low-cost options like an S&P 500 tracker.
 
 </div>
 
