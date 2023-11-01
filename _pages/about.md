@@ -33,17 +33,18 @@ You can reach me at mloseto[at]uchicago[dot]edu.
 
 <div style="text-align: justify; font-size:15px;">
 
-Employer-sponsored retirement plans are a crucial component of the US savings system. 
-Many of these plans include funds substantially more expensive than comparable alternatives available in the marketplace.
-To understand why these high-cost investment options are provided in equilibrium and to quantify the effects of alternative plan design policies on investors' welfare,
-this paper introduces a structural model of plan menu choice and fee competition between funds. The model features a two-layer demand system:
-plan sponsors construct retirement menus, and plan investors form portfolios from the available options. Consistent with the presence of agency frictions,
-model estimates imply that sponsors are only half as responsive to funds' fees than investors and favor the inclusion of funds affiliated with the plan recordkeeper.
-In response, funds charge sizable margins to investors. This is especially evident for Target-Date funds (TDFs),
-whose estimated margins are nearly twice as large as the median of all funds.
-Because model estimates suggest that a sizable share of investors is inactive,
-counterfactual policies mandating the inclusion of low-cost default options
-prove more effective than simply requiring the inclusion of low-cost options like an S&P 500 tracker.
+Employer-sponsored retirement plans are a crucial component of the US savings system.
+Many of these plans include funds substantially more expensive than comparable alternatives available in the marketplace. 
+To understand why these high-cost investment options are provided in equilibrium and to quantify the effects of
+alternative plan design policies on investors' welfare, this paper introduces a structural model of plan menu choice 
+and fee competition between funds. The model features a two-layer demand system: plan sponsors construct retirement menus,
+and plan investors form portfolios from the available options. Consistent with the presence of agency frictions,
+model estimates imply that sponsors are only half as responsive to funds' fees as investors and favor the inclusion
+of funds affiliated with the plan recordkeeper. In response, funds charge sizable margins to investors.
+This is especially evident for Target-Date funds (TDFs), whose estimated margins are nearly twice as large as
+the median of all funds. Because model estimates suggest that a sizable share of investors is inactive,
+counterfactual policies mandating the inclusion of low-cost default options prove more effective than simply
+requiring the inclusion of low-cost options like an S\&P 500 tracker.
 
 </div>
 
