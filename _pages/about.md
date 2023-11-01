@@ -9,22 +9,27 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
+
 Welcome! I am a PhD candidate at the University of Chicago, Department of Economics. My primary area of interest lies at the intersection of
-**industrial organization** and **financial economics**.
+<strong>industrial organization</strong> and <strong>financial economics</strong>.
+
+<p>  </p>
+
+</div>
 
 I will be on the 2023-2024 job market.
-
 
 My CV is available [here](../files/lm_cv.pdf).
 
 You can reach me at mloseto[at]uchicago[dot]edu.
 
-### References
+<!-- ### References
 
 * [Ali Horta&ccedil;su](https://home.uchicago.edu/hortacsu/) (co-chair)
 * [Lars P. Hansen](https://larspeterhansen.org/) (co-chair)
 * [Scott T. Nelson](https://faculty.chicagobooth.edu/scott-nelson?_gl=1*10bg1mh*_ga*MTM3ODM4MTAyNS4xNjk1NjAwMDUz*_ga_PDRJWHFTEV*MTY5ODY4ODE3My44LjAuMTY5ODY4ODE3My42MC4wLjA.&_ga=2.175682402.1915631437.1698688173-1378381025.1695600053)
-
+-->
 
 ## Job Market Paper
 
