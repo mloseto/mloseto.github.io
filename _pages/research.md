@@ -7,20 +7,19 @@ title: ""
 
 ## Working Papers
 
+<a href="../files/network_oligopolies_draft_0409.pdf" style="color: black; text-decoration: underline">
+	Network Games of Imperfect Competition: An Empirical Framework</a>
+
 <a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
-	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/)), 2023.
+	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
 
 
 <a href="../files/fl_draft_Sep2023.pdf" style="color: black; text-decoration: underline">
-	Liquidity Constraints and Demand for Maturity: The Case of Mortgages</a> (with [Alessandro Ferrari](https://sites.google.com/site/alessandroferrariecon/)), 2023.
-
-
-<a href="../files/network_oligopolies_draft_0409.pdf" style="color: black; text-decoration: underline">
-	Network Games of Imperfect Competition: An Empirical Framework</a>, 2023.
+	Liquidity Constraints and Demand for Maturity: The Case of Mortgages</a> (with [Alessandro Ferrari](https://sites.google.com/site/alessandroferrariecon/))
 
 
 <a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
-	Deliberate Randomization under Risk</a> (with Aldo Lucia), 2022.
+	Deliberate Randomization under Risk</a> (with [Aldo Lucia](https://www.aldolucia.com/))
 
 
 ## Publications
