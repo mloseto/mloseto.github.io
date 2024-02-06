@@ -55,16 +55,15 @@ requiring the inclusion of low-cost options like an S&P 500 tracker.
 
 ## Working Papers
 
+<a href="../files/network_oligopolies_draft_0409.pdf" style="color: black; text-decoration: underline">
+	Network Games of Imperfect Competition: An Empirical Framework</a>, 2023.
+
 <a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
 	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/)), 2023.
 
 
 <a href="../files/fl_draft_Sep2023.pdf" style="color: black; text-decoration: underline">
 	Liquidity Constraints and Demand for Maturity: The Case of Mortgages</a> (with [Alessandro Ferrari](https://sites.google.com/site/alessandroferrariecon/)), 2023.
-
-
-<a href="../files/network_oligopolies_draft_0409.pdf" style="color: black; text-decoration: underline">
-	Network Games of Imperfect Competition: An Empirical Framework</a>, 2023.
 
 
 <a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
