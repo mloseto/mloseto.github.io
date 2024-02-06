@@ -67,7 +67,7 @@ requiring the inclusion of low-cost options like an S&P 500 tracker.
 
 
 <a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
-	Deliberate Randomization under Risk.</a>  (with [Aldo Lucia](https://www.aldolucia.com/))
+	Deliberate Randomization under Risk</a>  (with [Aldo Lucia](https://www.aldolucia.com/))
 
 
 ## Publications
