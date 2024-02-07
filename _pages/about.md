@@ -55,7 +55,7 @@ requiring the inclusion of low-cost options like an S&P 500 tracker.
 
 ## Working Papers
 
-<a href="../files/network_oligopolies_draft_0409.pdf" style="color: black; text-decoration: underline">
+<a href="../files/network_oligopolies_draft.pdf" style="color: black; text-decoration: underline">
 	Network Games of Imperfect Competition: An Empirical Framework</a>
 
 <a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
