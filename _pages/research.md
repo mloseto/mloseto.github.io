@@ -7,6 +7,9 @@ title: ""
 
 ## Working Papers
 
+<a href="../files/lm_jmp_draft.pdf" style="color: black; text-decoration: underline">
+	Plan Menus, Retirement Portfolios, and Investors' Welfare</a>
+
 <a href="../files/network_oligopolies_draft.pdf" style="color: black; text-decoration: underline">
 	Network Games of Imperfect Competition: An Empirical Framework</a>
 
