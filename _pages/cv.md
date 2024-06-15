@@ -11,7 +11,7 @@ Full cv: [pdf](../files/lm_cv.pdf).
 
 ## Education
 
-* PhD in Economics, University of Chicago, 2024 (expected)
+* PhD in Economics, University of Chicago, 2024 
 * MSc in Economics and Social Sciences, Bocconi University, 2017
 * BSc in Economics and Social Sciences, Bocconi University, 2015
 
