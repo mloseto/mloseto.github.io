@@ -11,18 +11,14 @@ redirect_from:
 
 <div style="text-align: justify">
 
-Welcome! I am a PhD candidate at the University of Chicago, Department of Economics. My primary area of interest lies at the intersection of
+Welcome! I am an Assistant Professor at Bocconi University. My primary area of interest lies at the intersection of
 <strong>industrial organization</strong> and <strong>financial economics</strong>.
 
 <p>  </p>
 
-</div>
-
-In September I will join Bocconi University as an Assistant Professor of Finance.
-
 My CV is available [here](../files/lm_cv.pdf).
 
-You can reach me at mloseto[at]uchicago[dot]edu.
+You can reach me at marco.loseto[at]unibocconi[dot]it.
 
 <!-- ### References
 
