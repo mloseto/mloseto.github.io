@@ -16,9 +16,11 @@ Welcome! I am an Assistant Professor at Bocconi University. My primary area of i
 
 <p>  </p>
 
+</div>
+
 My CV is available [here](../files/lm_cv.pdf).
 
-You can reach me at marco.loseto[at]unibocconi[dot]it.
+You can reach me at marco.loseto[at]unibocconi[dot]edu.
 
 <!-- ### References
 
