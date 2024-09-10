@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="text-align: justify">
 
-Welcome! I am an Assistant Professor at Bocconi University. My primary area of interest lies at the intersection of
+Welcome! I am an Assistant Professor at Bocconi University and an IGIER affiliate. My primary area of interest lies at the intersection of
 <strong>industrial organization</strong> and <strong>financial economics</strong>.
 
 <p>  </p>
