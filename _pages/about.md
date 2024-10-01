@@ -14,7 +14,6 @@ redirect_from:
 Welcome! I am an Assistant Professor at Bocconi University and an IGIER affiliate. My primary area of interest lies at the intersection of
 <strong>industrial organization</strong> and <strong>financial economics</strong>.
 
-I obtained my PhD in Economics from the University of Chicago in 2024.
 <p>  </p>
 
 </div>
