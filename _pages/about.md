@@ -18,9 +18,39 @@ Welcome! I am an Assistant Professor at Bocconi University and an IGIER affiliat
 
 </div>
 
+I obtained my Ph.D. in Economics from the University of Chicago in 2024.
+
 My CV is available [here](../files/lm_cv.pdf).
 
 You can reach me at marco.loseto[at]unibocconi[dot]edu.
+
+
+## Working Papers
+
+<span style="color: black; text-decoration: underline">
+    Plan Menus, Retirement Portfolios, and Investors' Welfare
+</span>
+
+<a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
+	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
+
+<a href="../files/network_oligopolies_draft.pdf" style="color: black; text-decoration: underline">
+	Network Games of Imperfect Competition: An Empirical Framework</a>
+
+<!--a href="../files/fl_draft_Sep2023.pdf" style="color: black; text-decoration: underline">
+	Liquidity Constraints and Demand for Maturity: The Case of Mortgages</a> (with [Alessandro Ferrari](https://sites.google.com/site/alessandroferrariecon/))
+
+
+a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
+	Deliberate Randomization under Risk</a> (with [Aldo Lucia](https://www.aldolucia.com/))-->
+
+
+## Publications
+
+<a href="../files/hlo_final.PDF" style="color: black; text-decoration: underline">
+	Regulation with Experimentation: Ex Ante Approval, Ex Post Withdrawal and Liability</a> (with [Emeric Henry](https://sites.google.com/site/emericmlhenry/home) 
+	and [Marco Ottaviani](https://faculty.unibocconi.eu/marcom.ottaviani/)), 2022,
+	*Management Science*, 68(7), 5330-5347.
 
 <!-- ### References
 
