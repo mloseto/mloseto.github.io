@@ -31,7 +31,7 @@ You can reach me at marco.loseto[at]unibocconi[dot]edu.
     Plan Menus, Retirement Portfolios, and Investors' Welfare
 </span>
 
-<a href="../files/lm_draft_Feb2023.pdf" style="color: black; text-decoration: underline">
+<a href="../files/lm_draft_Nov2024.pdf" style="color: black; text-decoration: underline">
 	Oligopolistic Competition, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
 
 <a href="../files/network_oligopolies_draft.pdf" style="color: black; text-decoration: underline">
