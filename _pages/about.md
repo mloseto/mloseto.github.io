@@ -27,9 +27,9 @@ You can reach me at marco.loseto[at]unibocconi[dot]edu.
 
 ## Working Papers
 
-<span href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4623276" style="color: black; text-decoration: underline">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4623276" style="color: black; text-decoration: underline">
     Plan Menus, Retirement Portfolios, and Investors' Welfare
-</span>
+</a>
 
 <a href="../files/lm_draft_Nov2024.pdf" style="color: black; text-decoration: underline">
 	Market Power, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
