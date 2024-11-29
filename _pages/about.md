@@ -22,7 +22,7 @@ I obtained my Ph.D. in Economics from the University of Chicago in 2024.
 
 My CV is available [here](../files/lm_cv.pdf).
 
-You can reach me at marco.loseto[at]unibocconi[dot]it.
+You can reach me at marco.loseto[at]unibocconi[dot]it
 
 
 ## Working Papers
