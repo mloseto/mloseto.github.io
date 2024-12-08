@@ -31,7 +31,7 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
     Plan Menus, Retirement Portfolios, and Investors' Welfare
 </a>
 
-<a href="../files/lm_draft_Nov2024.pdf" style="color: black; text-decoration: underline">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364189" style="color: black; text-decoration: underline">
 	Market Power, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
 
 <a href="../files/network_oligopolies_draft.pdf" style="color: black; text-decoration: underline">
