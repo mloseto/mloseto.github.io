@@ -26,10 +26,14 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 
 
 ## Working Papers
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5878682" style="color: black; text-decoration: underline">
+    Default Options and Market Power: Evidence from Target-Date Funds</a> (with [Hanbin Yang](https://sites.google.com/view/hanbin-yang/))
+
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4623276" style="color: black; text-decoration: underline">
     Plan Menus, Retirement Portfolios, and Investors' Welfare
-</a>
+</a>, Revision requested at the *Review of Financial Studies*
+
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364189" style="color: black; text-decoration: underline">
 	Market Power, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
@@ -52,9 +56,4 @@ a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: un
 	and [Marco Ottaviani](https://faculty.unibocconi.eu/marcom.ottaviani/)), 2022,
 	*Management Science*, 68(7), 5330-5347.
 
-<!-- ### References
 
-* [Ali Horta&ccedil;su](https://home.uchicago.edu/hortacsu/) (co-chair)
-* [Lars P. Hansen](https://larspeterhansen.org/) (co-chair)
-* [Scott T. Nelson](https://faculty.chicagobooth.edu/scott-nelson?_gl=1*10bg1mh*_ga*MTM3ODM4MTAyNS4xNjk1NjAwMDUz*_ga_PDRJWHFTEV*MTY5ODY4ODE3My44LjAuMTY5ODY4ODE3My42MC4wLjA.&_ga=2.175682402.1915631437.1698688173-1378381025.1695600053)
--->
