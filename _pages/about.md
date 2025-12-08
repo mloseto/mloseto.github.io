@@ -31,8 +31,9 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4623276" style="color: black; text-decoration: underline">
-    Plan Menus, Retirement Portfolios, and Investors' Welfare</a>, Revision requested at the *Review of Financial Studies*
-
+    Plan Menus, Retirement Portfolios, and Investors' Welfare
+</a> 
+<span style="font-style: italic;">Revision requested at the <em>Review of Financial Studies</em></span>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364189" style="color: black; text-decoration: underline">
 	Market Power, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
