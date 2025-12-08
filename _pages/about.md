@@ -32,7 +32,7 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4623276" style="color: black; text-decoration: underline">
     Plan Menus, Retirement Portfolios, and Investors' Welfare
-</a> 
+</a><br> 
 <span style="font-style: italic;">Revision requested at the <em>Review of Financial Studies</em></span>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364189" style="color: black; text-decoration: underline">
