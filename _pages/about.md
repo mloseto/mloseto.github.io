@@ -27,7 +27,7 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 
 ## Working Papers
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5878682" style="color: black; text-decoration: underline">
-    Product Networks and the Competitive Effects of Acquisitions</a> (with [Athos Carvalho] (https://sites.google.com/view/athos-carvalho), [Shanglyu Deng] (https://www.shanglyudeng.com/), and [Mario Leccese] (https://www.marioleccese.com/))
+    Product Networks and the Competitive Effects of Acquisitions</a> (with [Athos Carvalho](https://sites.google.com/view/athos-carvalho), [Shanglyu Deng](https://www.shanglyudeng.com/), and [Mario Leccese](https://www.marioleccese.com/))
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5878682" style="color: black; text-decoration: underline">
     Default Options and Market Power: Evidence from Target-Date Funds</a> (with [Hanbin Yang](https://sites.google.com/view/hanbin-yang/))
