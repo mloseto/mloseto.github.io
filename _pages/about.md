@@ -40,12 +40,8 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364189" style="color: black; text-decoration: underline">
 	Market Power, Fund Proliferation and Asset Prices</a> (with [Federico Mainardi](https://www.fmainardi.com/))
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4387730" style="color: black; text-decoration: underline">
-	Network Games of Imperfect Competition: An Empirical Framework</a>
-
 <!--a href="../files/fl_draft_Sep2023.pdf" style="color: black; text-decoration: underline">
 	Liquidity Constraints and Demand for Maturity: The Case of Mortgages</a> (with [Alessandro Ferrari](https://sites.google.com/site/alessandroferrariecon/))
-
 
 a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: underline">
 	Deliberate Randomization under Risk</a> (with [Aldo Lucia](https://www.aldolucia.com/))-->
@@ -59,3 +55,7 @@ a href="../files/ll_draft_sept2022.pdf" style="color: black; text-decoration: un
 	*Management Science*, 68(7), 5330-5347.
 
 
+## Permanent working papers
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4387730" style="color: black; text-decoration: underline">
+	Network Games of Imperfect Competition: An Empirical Framework</a>
