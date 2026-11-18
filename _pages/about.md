@@ -26,6 +26,13 @@ You can reach me at marco.loseto[at]unibocconi[dot]it
 
 
 ## Working papers
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7719759"
+   style="color: black; text-decoration: underline;">
+  Who Benefits from Access to Institutional Investments? Evidence from Collective Investment Trusts.
+</a>
+(with <a href="https://fba.um.edu.mo/faculty/jiahongshi/">Jiahong Shi</a>, <a href="https://sites.google.com/view/jiaxingtian/">Jiaxing Tian</a>, <a href="https://sites.google.com/view/hanbin-yang/">Hanbin Yang</a>)
+<br>
+
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434338" style="color: black; text-decoration: underline">
     Diversion Networks and Horizontal Acquisitions</a> (with [Athos Carvalho](https://sites.google.com/view/athos-carvalho), [Shanglyu Deng](https://www.shanglyudeng.com/), and [Mario Leccese](https://www.marioleccese.com/))
 
